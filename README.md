@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm William</h1>
-<img src="01_Assets/wordart-banner.png>
+<img src="01_Assets/wordart-banner.png">
 <h3 align="center">Follow me on my <em>Data Analytics</em> journey</h3>
 
 <p align="rigth"> <img src="https://komarev.com/ghpvc/?username=wafrizzell&label=Profile%20views&color=0e75b6&style=flat" alt="wafrizzell" /> </p>
