@@ -14,12 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wafrizzell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wafrizzell" height="30" width="40" /></a>
-<br>
-<!-- 
-    Eventually add Kaggle, Tableau, and possibly Medium. Possibly link to my own site.
--->
+<!-- Find good social media icons. Eventually add Kaggle, Tableau, and possibly Medium. Possibly link to my own site. -->
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
@@ -40,13 +37,13 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> -->
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafrizzell&" alt="wafrizzell" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafrizzell&" alt="wafrizzell" />
 
 <!--
     Unused apps and icons, set aside for future use
