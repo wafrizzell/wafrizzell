@@ -10,10 +10,14 @@
 
 - 💬 Ask me about **Using SQL and Excel to analyze DNA testing data**
 
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wafrizzell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wafrizzell" height="30" width="40" /></a>
+<br>
+<!-- 
+    Eventually add Kaggle, Tableau, and possibly Medium. Possibly link to my own site.
+-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +32,7 @@
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 </p>
 
-
+<br>
 <h3 align="left">Database Tools and Technologies:</h3>
 <p float="left">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -38,7 +42,8 @@
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
-
+<br>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafrizzell&" alt="wafrizzell" /></p>
 
 <!--
