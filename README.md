@@ -43,7 +43,7 @@
 </p>
 <br>
 <br>
-<img src="01_Assets/gephi_7gen.gif">
+<img src="01_Assets/gephi_7gen.gif" width="300">
 
 <!--
     Unused apps and icons, set aside for future use
