@@ -43,7 +43,7 @@
 </p>
 <br>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafrizzell&" alt="wafrizzell" />
+<img src="01_Assets/gephi_7gen.gif">
 
 <!--
     Unused apps and icons, set aside for future use
