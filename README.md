@@ -4,18 +4,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=wafrizzell&label=Profile%20views&color=0e75b6&style=flat" alt="wafrizzell" /> </p>
 
-- 🔭 I’m currently working on [DNA Testing Analytics](https://github.com/wafrizzell/ancestry_python)
+- 🔭 I’m currently working on [DNA Testing Analytics](https://github.com/wafrizzell/Ancestry_Scripts)
 
-- 🌱 I’m currently learning **Power BI | Tableau | Pandas**
+- 🌱 I’m currently learning **Power BI | Tableau | Machine Learning with Python**
 
-- 💬 Ask me about **Using SQL and Excel to analyze DNA testing data**
+- 💬 Ask me about **Using Python and Gephi to analyze connections between DNA matches**
 
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wafrizzell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wafrizzell" height="30" width="40" /></a>
 <!-- Find good social media icons. Eventually add Kaggle, Tableau, and possibly Medium. Possibly link to my own site. -->
-</p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
