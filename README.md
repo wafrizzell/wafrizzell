@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=wafrizzell&label=Profile%20views&color=0e75b6&style=flat" alt="wafrizzell" /> </p>
 
-- 🔭 I’m currently working on [DNA Testing Analytics](https://github.com/wafrizzell/Ancestry_Scripts)
+- 🔭 I’m currently working on [DNA Testing Analytics](https://github.com/wafrizzell/DNA_Match_Analytics)
 
 - 🌱 I’m currently learning **Power BI | Tableau | Machine Learning with Python**
 
